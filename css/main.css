@@ -1,0 +1,39 @@
+body{
+  padding-top: 50px;
+}
+
+#navbar{
+  background-color: #800000;
+}
+
+#text{
+  background-color: #000000;
+  color: #fff;
+}
+
+#background-image{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 600px;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 700px;
+}
+
+#images{
+  width: 300px;
+  height: 200px;
+}
+
+#quantitiy, #quantity-label{
+  margin-left: -20px;
+}
+
+img.details{
+  width: auto;
+  margin: 15px auto;
+  height: 200px;
+}
